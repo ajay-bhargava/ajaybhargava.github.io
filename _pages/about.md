@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>Bench scientist.</b> <b>Data scientist</b>. ML Engineer. Father. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: portrait.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a professionally trained scientist who has become extremely adept at identifying and then solving low hanging-fruit problems. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I thrive in autonomously solving unstructured problems because my [Ph.D. scholarship with Erik Sahai](http://crick.ac.uk) granted me rigorous scientific discipline with a particular penchant for video acquisition & analysis using ML/AI.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I've made ML/AI tools at amazing pharmaceutical companies such as [GSK](http://gsk.ai) & [Regeneron](http://www.regeneron.com) to derive meaning from healthcare imaging data.
+
+More than writing ML/AI code for healthcare, I've produced ML/AI pipelines at video analytics technology companies like [Actuate](http://actuate.ai) to deploy production level serverless real-time gun/intruder and novel slip/fall detection AI algorithms to a network of 20K+ cameras.  
+
+> My general interests are at the intersection of computer vision, explainable AI, model quantization, and model deployment. In short, I want to bring **useful** real-time vision AI to the masses. 
