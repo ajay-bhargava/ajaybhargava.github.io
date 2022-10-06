@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+title: Created a YOLOv5 Sagemaker Pipeline
+date: 2022-09-01 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Built a novel YOLOv5 Sagemaker Pipeline.
